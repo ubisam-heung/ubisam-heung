@@ -41,7 +41,10 @@
             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats
             </h2>
             <br/>
+            </div>
+      </div>
+
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ubisam-heung&show_icons=true&include_all_commits=true&theme=nord)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=ubisam-heung&layout=compact&langs_count=5&theme=nord)
-      </div>
-</div>
+
+<br/>
