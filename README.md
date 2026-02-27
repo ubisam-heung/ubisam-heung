@@ -42,8 +42,8 @@
             </h2>
             <br/>
             <div align="center">
-            [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ubisam-heung&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=ubisam-heung&show_icons=true&include_all_commits=true&theme=nord)
-            [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ubisam-heung&layout=compact&langs_count=5&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=ubisam-heung&layout=compact&langs_count=5&theme=nord)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ubisam-heung&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=ubisam-heung&show_icons=true&include_all_commits=true&theme=nord)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ubisam-heung&layout=compact&langs_count=5&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=ubisam-heung&layout=compact&langs_count=5&theme=nord)
             </div>
       </div>
 </div>
